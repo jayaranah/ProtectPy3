@@ -1,9 +1,6 @@
 # ProtectPy3
 [New] Bot Saling Backup Dan Admin Di Undang Jika Ke Kick
 
-=======================================
-    Bot Protect TCR Versi 1 Admin dan 5 Bot
-=======================================
 Bot Line Versi Protect Group
 - Siapkan 1 Akun Utama Dan 5 Akun Bot
 
