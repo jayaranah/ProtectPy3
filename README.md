@@ -22,7 +22,7 @@ Cara Instal :
 - pkg install git
 - git clone https://github.com/iiipuuul/ProtectPy3
 - pip3 install rsa
-- pip3 install thrift==0.9.3
+- pip3 install thrift==0.11.0
 - pip3 install requests
 
 Cara Menjalankan Botnya :
